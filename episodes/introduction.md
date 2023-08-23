@@ -51,7 +51,7 @@ your preference:
 
 ### Step 2: Choose a name for your lesson repository. 
 
-Name it "buoyant-barnacle". **select "Include All Branches"**. Click on
+Name it with an informative name for your lesson, i.e. `py-streamlit-novice`. **select "Include All Branches"**. Click on
 the button that says "Create repository from template"
 
 ::::::::::::: callout
